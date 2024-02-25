@@ -1,6 +1,13 @@
 {
-  "name": "koa-simple-server",
-  "version": "1.0.0",
+  "name": "check-mute",
+  "version": "0.1.2",
+  "author": "druidriga",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/druidriga/check-mute.git"
+  },
+  "homepage": "https://github.com/druidriga/check-mute#readme",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -8,8 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "koa": "latest",
     "koa-body": "latest",
