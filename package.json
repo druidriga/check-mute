@@ -1,11 +1,11 @@
 {
   "name": "check-mute",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "druidriga",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/druidriga/check-mute.git"
+    "url": "https://github.com/druidriga/check-mute.git"
   },
   "homepage": "https://github.com/druidriga/check-mute#readme",
   "description": "",
@@ -14,7 +14,7 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["angular"],
   "dependencies": {
     "koa": "latest",
     "koa-body": "latest",
