@@ -1,6 +1,6 @@
 {
   "name": "check-mute",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "druidriga",
   "license": "ISC",
   "repository": {
@@ -16,6 +16,7 @@
   },
   "keywords": ["angular"],
   "dependencies": {
+    "balance-fee": "^1.2.2",
     "koa": "latest",
     "koa-body": "latest",
     "koa-logger": "latest",
